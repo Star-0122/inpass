@@ -1,0 +1,3 @@
+-- InPass database schema is already applied to the connected Supabase project.
+-- This file is kept in the repository as the reference schema.
+-- Supabase project: slbsiwseflwqaxbtdhux
